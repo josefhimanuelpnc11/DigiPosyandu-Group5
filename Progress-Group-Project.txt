@@ -1,0 +1,30 @@
+Group 5
+Member of the Group:
+- Josefh Imanuel Cristian Rombot
+- Ainun Fatma Wati
+- Ahsanuamala Asma Amanina
+
+Project Name : DigiPosyandu
+
+Description :
+Posyandu is a community based vehicle to improve child survival and development in Indonesia. But we found there are some problem for the mothers also the child when it comes to long queues in posyandu and the child nutrition knowledge, thats why our idea is to creat DigiPosyandu.
+
+This DigiPosyandu will reduce many problems that often occur when mothers and children go to the posyandu. DigiPosyandu will make the queue more organized. Mothers will be able to get information about child nutrition directly from the doctors.
+
+Feature :
+- Send invitations to posyandu and immunization via WhatsApp bot
+- Data collection of body weight and height of toddlers with Chart
+- Delivery of analysis results to pediatrician/pediatric nutritionist
+- Sending advice to the mothers via WhatsApp 
+
+Stakeholder :
+- The mothers
+- Docters
+- Posyandu Staff
+
+Technology :
+- Laravel
+- MySQL
+- Laragon
+- Figma
+
